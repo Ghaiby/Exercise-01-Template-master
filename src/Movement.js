@@ -5,7 +5,7 @@ class Movement extends Phaser.Scene {
     }
 
     preload() {
-        this.load.spritesheet('character', './assets/spritesheets/character_002.png',{
+        this.load.spritesheet('character', './assets/spritesheets/Character_002.png',{
             frameWidth: 48
         })
     }
